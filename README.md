@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=280&section=header&text=Innovation%20%26%20IP%20Portfolio&fontSize=50&animation=fadeIn&fontAlignY=38" />
-</p>
-
-
 # <p align="center">🚀 Patent Portfolio</p>
 
 <p align="center">
@@ -46,7 +41,6 @@ Innovation is a persistent journey. I am committed to expanding this portfolio f
   <img src="https://img.shields.io/badge/Design-PCB%20|%20Fusion%20360%20|%20KiCad-red?style=flat-square" />
 </p>
 
----
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
