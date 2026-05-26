@@ -23,10 +23,10 @@ Traditional emergency transit suffers from a **"Double Delay"**: physical traffi
 * **Independent RF Link:** Uses a dedicated **nRF24L01+ transceiver** (2.4 GHz) to trigger a "Green Corridor," bypassing unreliable cellular networks.
 * **Concurrent Operation:** The Health and Traffic modules work in parallel, powered by the vehicle's 12V battery through an LM2596 conditioning stage.
 
-
 ---
 * [📄 View Official Publication](./01-PUBLICATION.pdf)
 * [🖼️ Technical Schematics](./01-DRAWINGS.pdf)
+---
   
 ## 🏗️ System Architecture & Logic Flow
 
