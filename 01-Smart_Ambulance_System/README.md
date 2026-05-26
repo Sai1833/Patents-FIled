@@ -1,4 +1,4 @@
-# 🚑 Integrated Emergency Response System (IERS)
+# 🚑 Smart Ambulance System
 ### **Patent-Pending Innovation | IoT & Bio-Medical Engineering**
 
 [![Patent-Status](https://img.shields.io/badge/Status-Patent--Pending-blue?style=for-the-badge)](https://iprsearch.ipindia.gov.in)
