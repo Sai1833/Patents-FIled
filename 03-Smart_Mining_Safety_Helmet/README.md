@@ -24,7 +24,7 @@ This smart helmet provides an integrated safety backbone, ensuring every miner i
 
 ## 📁 Repository Contents
 * [📄 View Official Publication](./helm_w2.pdf)
-* [🖼️ Technical Block Diagrams](./helm_D.pdf)
+* [🖼️ Technical Block Diagrams](./03-DRAWINGS.pdf)
 
 ---
 
