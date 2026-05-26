@@ -1,5 +1,5 @@
 # 📑 Innovation & Patent Portfolio
-### **Mavuri Jnana Sai Sri Prakash | Embedded Systems & IoT Researcher**
+### **Mavuri Jnana Sai Sri Prakash | Embedded Systems & IoT **
 **"Engineering solutions today for a safer and smarter tomorrow."**
 
 [![Research-Gate](https://img.shields.io/badge/Research-Portfolio-blueviolet?style=for-the-badge&logo=googlescholar)](https://github.com/Sai1833)
@@ -28,15 +28,3 @@ I specialize in full-stack embedded engineering—from circuit design to cloud i
 * **Hardware:** STM32, Arduino Mega/Nano, MPPT Solar Chargers, Sensor Fusion.
 * **Logic & DSP:** Haversine Distance Algorithms, Digital IIR Filtering, JSON Telemetry.
 
----
-
-## 📐 The Innovation Pipeline (Methodology)
-```mermaid
-graph LR
-    A(Problem Identified) --> B(Circuit & PCB Design)
-    B --> C(Software & Logic Dev)
-    C --> D(Prototype Validation)
-    D --> E(Patent Filing & IP Protection)
-    E --> F{Future Expansion}
-    F -->|Concept 04| G[Edge AI Systems]
-    F -->|Concept 05| H[Swarm Intelligence]
