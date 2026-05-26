@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=Innovation%20%26%20Research%20Lab&fontSize=50&animation=fadeIn&fontAlignY=38" />
-</p>
 
-# <p align="center">🚀 Global Patent & Research Portfolio</p>
+
+# <p align="center">🚀 Patent Portfolio</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Innovator-Sai%20Prakash-0077b6?style=for-the-badge&logo=github" />
@@ -47,10 +45,3 @@ Innovation is a persistent journey. I am committed to expanding this portfolio f
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077b6&height=120&section=footer&text=Innovating%20Step%20by%20Step&fontSize=30&animation=twinkle" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contact-Via%20GitHub-lightgrey?style=social&logo=github" />
-</p>
