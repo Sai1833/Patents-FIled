@@ -27,7 +27,6 @@ This system uses solar-powered autonomous nodes that form a **Peer-to-Peer (P2P)
 
 ---
 ## 🏗️ System Architecture
-[attachment_0](attachment)
 
 ### **1. Sensor Node (The Watchman)**
 * **Brain:** Arduino Nano.
