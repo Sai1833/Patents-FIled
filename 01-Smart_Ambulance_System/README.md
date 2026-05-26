@@ -1,5 +1,5 @@
 # 🚑 Smart Ambulance System
-### **Patent-Pending Innovation | IoT & Bio-Medical Engineering**
+### **Patent-Filed | IoT & Bio-Medical Engineering**
 
 [![Patent-Status](https://img.shields.io/badge/Status-Patent--Pending-blue?style=for-the-badge)](https://iprsearch.ipindia.gov.in)
 [![Publication-No](https://img.shields.io/badge/Publication--No-IN202641011997_A1-success?style=for-the-badge)](https://iprsearch.ipindia.gov.in)
