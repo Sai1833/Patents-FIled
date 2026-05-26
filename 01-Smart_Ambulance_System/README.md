@@ -13,12 +13,12 @@ Traditional emergency transit suffers from a **"Double Delay"**: physical traffi
 
 ## ⚡ Technical Core & Innovations
 
-### 🩺 1. Real-Time Health Telemetry (HMM)
+### 🩺 1. Real-Time Health Telemetry
 * **Digital Signal Processing:** Implements a **2nd order IIR bandpass filter** on-chip to strip 50Hz electrical hum and baseline drift from raw ECG signals.
 * **Multi-Sensor Array:** Synchronous monitoring of ECG (AD8232), SpO2 (MAX30100), Blood Pressure, and GSR (Stress Sensing).
 * **Cloud Sync:** Formats data into **JSON packets** for live hospital-side visualization via Blynk/Cloud dashboards.
 
-### 🚦 2. Intelligent Traffic Override (TCM)
+### 🚦 2. Intelligent Traffic Override
 * **GPS-Based Geofencing:** Uses the **Haversine Formula** to calculate the precise great-circle distance between the ambulance and upcoming junctions.
 * **Independent RF Link:** Uses a dedicated **nRF24L01+ transceiver** (2.4 GHz) to trigger a "Green Corridor," bypassing unreliable cellular networks.
 * **Concurrent Operation:** The Health and Traffic modules work in parallel, powered by the vehicle's 12V battery through an LM2596 conditioning stage.
