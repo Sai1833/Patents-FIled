@@ -24,9 +24,9 @@ Below are my officially published patents, representing solutions for critical r
 ## 🧠 My Research Philosophy
 > *"Research is not just a process; it's a passion to solve what hasn't been solved yet."*
 
-Naku research cheyyadam ante chala istam. Ee prapancham lo unna challenges ki innovative solutions kanipettadam, hardware and software ni integrate chesi kothavi srushtinchadam na hobby matrame kadu, na passion. 
+I have a profound passion for research and the pursuit of original solutions. To me, engineering is the art of integrating hardware and software to solve the world's most complex challenges. This isn't just a hobby—it is my **primary mission**.
 
-I don't just build projects; I build **IP (Intellectual Property)**. Complex problems ki simplified solutions create chesi, vatini legal ga patents dwara protect chesi, society ki use ayye tech build cheyadame na target.
+My goal is to identify systemic gaps in society and create simplified, high-tech solutions. By protecting these innovations through the legal patent process, I ensure that technology serves humanity securely and effectively.
 
 ## 🔮 Future Vision & Roadmap
 Innovation is a persistent journey. I am committed to expanding this portfolio further:
