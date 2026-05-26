@@ -24,6 +24,7 @@ Traditional emergency transit suffers from a **"Double Delay"**: physical traffi
 * **Concurrent Operation:** The Health and Traffic modules work in parallel, powered by the vehicle's 12V battery through an LM2596 conditioning stage.
 
 ---
+## 📁 Repository Contents
 * [📄 View Official Publication](./01-PUBLICATION.pdf)
 * [🖼️ Technical Schematics](./01-DRAWINGS.pdf)
 ---
