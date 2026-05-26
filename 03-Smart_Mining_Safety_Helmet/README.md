@@ -26,13 +26,13 @@ This smart helmet provides an integrated safety backbone, ensuring every miner i
 
 
 ### **1. The Smart Helmet (The Unit)**
-* **[span_10](start_span)[span_11](start_span)Brain:** STM32 or ESP32 Microcontroller[span_10](end_span)[span_11](end_span).
-* **[span_12](start_span)[span_13](start_span)Sensors:** Gas Sensor (MQ-4), Temperature sensor, and Flame sensor[span_12](end_span)[span_13](end_span).
-* **[span_14](start_span)[span_15](start_span)Alerts:** Local buzzer and LED indicators for immediate worker feedback[span_14](end_span)[span_15](end_span).
+* **Brain:** STM32 or ESP32 Microcontroller.
+* **Sensors:** Gas Sensor (MQ-4), Temperature sensor, and Flame sensor.
+* **Alerts:** Local buzzer and LED indicators for immediate worker feedback.
 
 ### **2. Surface Monitoring (The Control Room)**
-* **[span_16](start_span)[span_17](start_span)Dashboard:** A live map interface showing miner positions and real-time environmental status[span_16](end_span)[span_17](end_span).
-* **[span_18](start_span)[span_19](start_span)Alert API:** Automated triggers for Alarms, SMS, and Voice Calls during critical incidents[span_18](end_span)[span_19](end_span).
+* **Dashboard:** A live map interface showing miner positions and real-time environmental status.
+* **Alert API:** Automated triggers for Alarms, SMS, and Voice Calls during critical incidents.
 
 ---
 
