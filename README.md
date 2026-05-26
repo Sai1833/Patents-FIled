@@ -36,7 +36,7 @@ Innovation is a persistent journey. I am committed to expanding this portfolio f
 
 ## 🛠️ Technical Skill Spectrum
 <p align="left">
-  <img src="https://img.shields.io/badge/Microcontrollers-STM32%20|%20ESP32%20|%20Arduino-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microcontrollers-%20ESP32%20|%20Arduino-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Wireless-LoRa%20|%20UWB%20|%20nRF24-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Design-PCB%20|%20Fusion%20360%20|%20KiCad-red?style=flat-square" />
 </p>
