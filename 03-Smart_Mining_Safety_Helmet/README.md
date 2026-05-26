@@ -15,10 +15,10 @@ Underground coal mines are high-risk environments with zero GPS visibility, toxi
 This smart helmet provides an integrated safety backbone, ensuring every miner is tracked with precision and protected from environmental hazards.
 
 ### 🛰️ Core Technical Innovations
-* **[span_2](start_span)[span_3](start_span)UWB Precision Tracking:** Uses **Ultra-Wideband (UWB)** tags to enable centimeter-level indoor localization inside tunnels, bypassing the need for GPS[span_2](end_span)[span_3](end_span).
-* **[span_4](start_span)[span_5](start_span)Long-Range Data Relay:** Employs a **LoRa Wireless Mesh** to transmit sensor data from deep tunnels to the surface control room via relay nodes[span_4](end_span)[span_5](end_span).
-* **[span_6](start_span)[span_7](start_span)Intelligent Hazard Detection:** Continuous monitoring for Methane (CH4), Carbon Monoxide (CO), and abnormal temperature spikes with instant local and remote alerts[span_6](end_span)[span_7](end_span).
-* **[span_8](start_span)[span_9](start_span)Emergency Panic Trigger:** A dedicated SOS push button that immediately broadcasts a high-priority distress signal to the dashboard[span_8](end_span)[span_9](end_span).
+* **UWB Precision Tracking:** Uses **Ultra-Wideband (UWB)** tags to enable centimeter-level indoor localization inside tunnels, bypassing the need for GPS.
+* **Long-Range Data Relay:** Employs a **LoRa Wireless Mesh** to transmit sensor data from deep tunnels to the surface control room via relay nodes.
+* **Intelligent Hazard Detection:** Continuous monitoring for Methane (CH4), Carbon Monoxide (CO), and abnormal temperature spikes with instant local and remote alerts.
+* **Emergency Panic Trigger:** A dedicated SOS push button that immediately broadcasts a high-priority distress signal to the dashboard.
 
 ---
 
