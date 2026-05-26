@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=280&section=header&text=Innovation%20%26%20IP%20Portfolio&fontSize=50&animation=fadeIn&fontAlignY=38" />
+</p>
 
 
 # <p align="center">🚀 Patent Portfolio</p>
@@ -44,4 +47,8 @@ Innovation is a persistent journey. I am committed to expanding this portfolio f
 </p>
 
 ---
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
