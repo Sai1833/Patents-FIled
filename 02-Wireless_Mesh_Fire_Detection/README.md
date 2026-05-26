@@ -21,6 +21,11 @@ This system uses solar-powered autonomous nodes that form a **Peer-to-Peer (P2P)
 
 ---
 
+## 📁 Repository Contents
+* [📄 View Official Publication](./fire_w2.pdf)
+* [🖼️ Technical Schematics](./fire_D.pdf)
+
+---
 ## 🏗️ System Architecture
 [attachment_0](attachment)
 
