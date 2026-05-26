@@ -1,60 +1,60 @@
-# <p align="center">✨ Innovation & Intellectual Property Portfolio ✨</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=MAVURI%20JNANA%20SAI%20SRI%20PRAKASH&fontSize=40&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Smart%20Ambulance%20System&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<p align="center">
-  <b>Electronics & Communication Engineer | Embedded Systems & IoT Researcher</b><br>
-  <i>"Transforming complex engineering challenges into patented real-world solutions."</i>
-</p>
+# 🚑 Integrated Emergency Response System (IERS)
+### **Official Patent Portfolio | Innovation #01**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Patents--Pending-03-gold?style=for-the-badge&logo=opsgenie" />
-  <img src="https://img.shields.io/badge/IP--India-Published-success?style=for-the-badge&logo=gov.uk" />
-  <img src="https://img.shields.io/badge/Future--Roadmap-Active-brightgreen?style=for-the-badge&logo=target" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Patent--Pending-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Publication--No-IN202641011997_A1-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field-Bio--Medical_Engineering-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 💎 The Patent Trilogy
-This portfolio showcases three high-impact technologies officially published in the **Indian Patent Journal**. Each project represents a leap in safety and automation infrastructure.
+## 🌟 The Vision
+[cite_start]The **IERS** project attacks the **"Golden Hour"** delay from two fronts: eliminating traffic gridlocks and removing information blackouts between the ambulance and the ER [cite: 31-33, 41].
 
-### 🚀 Featured Innovations
+## ⚡ Technical Core & Innovations
 
-| | Project Title | Key Tech Stack | Impact Domain |
-| :--- | :--- | :--- | :--- |
-| 🚑 | **[Smart Ambulance System (IERS)](./01-Smart_Ambulance_System)** | GPS, nRF24L01+, DSP | Medical Emergency & Smart Traffic |
-| 🔥 | **[Wireless Mesh Fire Detection](./02-Wireless_Mesh_Fire_Detection)** | LoRa Mesh, Solar, P2P | Disaster Prevention & Forestry |
-| ⛑️ | **[Mining Safety Helmet](./03-Smart_Mining_Safety_Helmet)** | UWB, LoRa, Multi-Gas | Industrial Safety & Localization |
+### 🩺 1. Real-Time Health Telemetry (HMM)
+* [cite_start]**Digital Signal Processing:** Implements a **2nd order IIR bandpass filter** on-chip to strip 50Hz electrical hum from raw ECG signals [cite: 71, 148-150].
+* [cite_start]**Multi-Sensor Array:** Synchronous monitoring of ECG (AD8232), SpO2 (MAX30100), Blood Pressure, and GSR [cite: 70, 116, 126-128].
+* [cite_start]**Cloud Sync:** Formats data into **JSON packets** for live hospital-side visualization via ESP8266 [cite: 79-81, 137-138, 167-168].
 
----
-
-## ⚡ Technical Skill Spectrum
-I bridge the gap between hardware reliability and intelligent software execution.
-
-* **[span_0](start_span)[span_1](start_span)[span_2](start_span)[span_3](start_span)📡 Wireless Protocols:** LoRa Mesh (Peer-to-Peer Relay)[span_0](end_span)[span_1](end_span)[span_2](end_span)[span_3](end_span)[span_4](start_span)[span_5](start_span)[span_6](start_span), UWB (Ultra-Wideband Localization)[span_4](end_span)[span_5](end_span)[span_6](end_span), nRF24L01+ Priority Links.
-* **[span_7](start_span)[span_8](start_span)🧠 Embedded Processing:** STM32[span_7](end_span)[span_8](end_span)[span_9](start_span)[span_10](start_span)[span_11](start_span), ESP32[span_9](end_span)[span_10](end_span)[span_11](end_span)[span_12](start_span)[span_13](start_span)[span_14](start_span), Arduino Mega/Nano[span_12](end_span)[span_13](end_span)[span_14](end_span).
-* **[span_15](start_span)[span_16](start_span)[span_17](start_span)🔋 Energy Systems:** Autonomous Solar MPPT Charging [cite: 10, 119-120] [cite_start]and Ultra-low-power duty cycle management [cite: 95, 143-144, 157].
-* **📐 Advanced Logic:** Haversine Distance Geofencing and Digital IIR Filtering for Bio-signal clarity.
+### 🚦 2. Intelligent Traffic Override (TCM)
+* [cite_start]**GPS-Based Geofencing:** Uses the **Haversine Formula** to calculate the precise great-circle distance to upcoming junctions [cite: 146-147].
+* [cite_start]**Independent RF Link:** Uses a dedicated **nRF24L01+ transceiver** (2.4 GHz) to trigger a "Green Corridor" when within 800m [cite: 104-106].
+* [cite_start]**Concurrent Operation:** Health and Traffic modules work in parallel, powered by the vehicle's 12V battery [cite: 68-70, 119-121].
 
 ---
 
-## 🔮 The Future Roadmap (Upcoming IP)
-Innovation is a persistent journey. I am currently scaling my research into deeper domains to expand this Intellectual Property portfolio:
+## 🛠️ Hardware Stack
+| Component | Specifications | Role |
+| :--- | :--- | :--- |
+| **Main MCU** | Arduino Mega 2560 | [cite_start]Health Processing & Cloud Link [cite: 122-124] |
+| **Sub MCU** | Arduino Nano | Navigation & Radio Broadcast |
+| **Comms** | nRF24L01+ | 2.4GHz ISM Band Priority Link |
+| **Sensors** | MAX30100, AD8232, NEO-6M | [cite_start]Vitals & Positioning [cite: 126-129] |
 
-* **🛰️ Edge AI & TinyML:** Implementing on-device machine learning for predictive industrial maintenance.
-* **📶 5G-Enabled IoT:** Exploring high-speed, low-latency communication for mission-critical robotics.
-* **📝 Next-Gen Patents:** Currently drafting **2 additional patents** focused on **Smart City infrastructure** and **Autonomous Energy Harvesting systems**.
+---
+
+## 📸 Engineering Proof (Prototype)
+[cite_start]The invention is backed by a fully functional physical prototype [cite: 158-164].
+* **Vehicle Unit:** Compact design with OLED local display and external radio antenna.
+* **Junction Unit:** Relay-controlled traffic light override system with authentication logic.
 
 ---
 
-## 📂 Professional Repository Structure
-To maintain industrial standards, each project directory is equipped with:
-1. [cite_start]**Official Legal Documentation:** Verified Patent Publication Reports from IP India [cite: 7-8, 395-396].
-2. [cite_start]**Technical Engineering Assets:** High-resolution block diagrams, flowcharts, and circuit schematics [cite: 86-95, 458-464].
-3. [cite_start]**Physical Hardware Proof:** Detailed photographs and specifications of functional prototypes [cite: 158-164, 505-513].
+## 📁 Repository Contents
+* [cite_start]**[📄 View Official Patent Publication](./01-PUBLICATION.pdf)** [cite: 7-8, 196]
+* [cite_start]**[🖼️ View Technical Drawings & Circuitry](./01-DRAWINGS.pdf)** [cite: 86-95]
 
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+</p>
+
+<p align="center"> 
+  ⭐ <b>Star this repo if you find it useful!</b> ⭐
 </p>
