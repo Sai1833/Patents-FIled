@@ -1,4 +1,4 @@
-# <p align="center">🚀 Patent Portfolio</p>
+# <p align="center">🚀 Patents Portfolio</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Innovator-Sai%20Prakash-0077b6?style=for-the-badge&logo=github" />
